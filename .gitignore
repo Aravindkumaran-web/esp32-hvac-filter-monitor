@@ -1,0 +1,13 @@
+# WiFi credentials, never commit
+secrets.h
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+*.bin
+*.elf
